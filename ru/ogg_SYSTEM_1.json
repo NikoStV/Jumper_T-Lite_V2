@@ -1,0 +1,308 @@
+[
+  {
+    "name_file": "0000.ogg",
+    "path": "ogg/SYSTEM/1/0000.ogg",
+    "origin_text": "zero",
+    "translation": "ноль"
+  },
+  {
+    "name_file": "0001.ogg",
+    "path": "ogg/SYSTEM/0001.ogg",
+    "origin_text": "one",
+    "translation": "один"
+  },
+  {
+    "name_file": "0002.ogg",
+    "path": "ogg/SYSTEM/0002.ogg",
+    "origin_text": "two",
+    "translation": "два"
+  },
+  {
+    "name_file": "0003.ogg",
+    "path": "ogg/SYSTEM/1/0003.ogg",
+    "origin_text": "three",
+    "translation": "три"
+  },
+  {
+    "name_file": "0004.ogg",
+    "path": "ogg/SYSTEM/0004.ogg",
+    "origin_text": "four",
+    "translation": "четыре"
+  },
+  {
+    "name_file": "0005.ogg",
+    "path": "ogg/SYSTEM/1/0005.ogg",
+    "origin_text": "five",
+    "translation": "пять"
+  },
+  {
+    "name_file": "0006.ogg",
+    "path": "ogg/SYSTEM/1/0006.ogg",
+    "origin_text": "six",
+    "translation": "шесть"
+  },
+  {
+    "name_file": "0007.ogg",
+    "path": "ogg/SYSTEM/1/0007.ogg",
+    "origin_text": "seven",
+    "translation": "семь"
+  },
+  {
+    "name_file": "0008.ogg",
+    "path": "ogg/SYSTEM/0008.ogg",
+    "origin_text": "eight",
+    "translation": "восемь"
+  },
+  {
+    "name_file": "0009.ogg",
+    "path": "ogg/SYSTEM/1/0009.ogg",
+    "origin_text": "nine",
+    "translation": "девять"
+  },
+  {
+    "name_file": "0010.ogg",
+    "path": "ogg/SYSTEM/0010.ogg",
+    "origin_text": "ten",
+    "translation": "десять"
+  },
+  {
+    "name_file": "0011.ogg",
+    "path": "ogg/SYSTEM/1/0011.ogg",
+    "origin_text": "eleven",
+    "translation": "одиннадцать"
+  },
+  {
+    "name_file": "0012.ogg",
+    "path": "ogg/SYSTEM/1/0012.ogg",
+    "origin_text": "twelve",
+    "translation": "двенадцать"
+  },
+  {
+    "name_file": "0013.ogg",
+    "path": "ogg/SYSTEM/1/0013.ogg",
+    "origin_text": "thirteen",
+    "translation": "тринадцать"
+  },
+  {
+    "name_file": "0014.ogg",
+    "path": "ogg/SYSTEM/1/0014.ogg",
+    "origin_text": "fourteen",
+    "translation": "четырнадцать"
+  },
+  {
+    "name_file": "0015.ogg",
+    "path": "ogg/SYSTEM/1/0015.ogg",
+    "origin_text": "fifteen",
+    "translation": "пятнадцать"
+  },
+  {
+    "name_file": "0016.ogg",
+    "path": "ogg/SYSTEM/1/0016.ogg",
+    "origin_text": "sixteen",
+    "translation": "шестнадцать"
+  },
+  {
+    "name_file": "0017.ogg",
+    "path": "ogg/SYSTEM/1/0017.ogg",
+    "origin_text": "seventeen",
+    "translation": "семнадцать"
+  },
+  {
+    "name_file": "0018.ogg",
+    "path": "ogg/SYSTEM/1/0018.ogg",
+    "origin_text": "eighteen",
+    "translation": "восемнадцать"
+  },
+  {
+    "name_file": "0019.ogg",
+    "path": "ogg/SYSTEM/1/0019.ogg",
+    "origin_text": "nineteen",
+    "translation": "девятнадцать"
+  },
+  {
+    "name_file": "0020.ogg",
+    "path": "ogg/SYSTEM/1/0020.ogg",
+    "origin_text": "twenty",
+    "translation": "двадцать"
+  },
+  {
+    "name_file": "0021.ogg",
+    "path": "ogg/SYSTEM/1/0021.ogg",
+    "origin_text": "twenty one",
+    "translation": "двадцать один"
+  },
+  {
+    "name_file": "0022.ogg",
+    "path": "ogg/SYSTEM/1/0022.ogg",
+    "origin_text": "twenty two",
+    "translation": "двадцать два"
+  },
+  {
+    "name_file": "0023.ogg",
+    "path": "ogg/SYSTEM/1/0023.ogg",
+    "origin_text": "twenty three",
+    "translation": "двадцать три"
+  },
+  {
+    "name_file": "0024.ogg",
+    "path": "ogg/SYSTEM/1/0024.ogg",
+    "origin_text": "twenty four",
+    "translation": "двадцать четыре"
+  },
+  {
+    "name_file": "0025.ogg",
+    "path": "ogg/SYSTEM/1/0025.ogg",
+    "origin_text": "twenty five",
+    "translation": "двадцать пять"
+  },
+  {
+    "name_file": "0026.ogg",
+    "path": "ogg/SYSTEM/1/0026.ogg",
+    "origin_text": "twenty six",
+    "translation": "двадцать шесть"
+  },
+  {
+    "name_file": "0027.ogg",
+    "path": "ogg/SYSTEM/1/0027.ogg",
+    "origin_text": "twenty seven",
+    "translation": "двадцать семь"
+  },
+  {
+    "name_file": "0028.ogg",
+    "path": "ogg/SYSTEM/1/0028.ogg",
+    "origin_text": "twenty eight",
+    "translation": "двадцать восемь"
+  },
+  {
+    "name_file": "0029.ogg",
+    "path": "ogg/SYSTEM/1/0029.ogg",
+    "origin_text": "twenty nine",
+    "translation": "двадцать девять"
+  },
+  {
+    "name_file": "0030.ogg",
+    "path": "ogg/SYSTEM/1/0030.ogg",
+    "origin_text": "thirty",
+    "translation": "тридцать"
+  },
+  {
+    "name_file": "0031.ogg",
+    "path": "ogg/SYSTEM/1/0031.ogg",
+    "origin_text": "thirty one",
+    "translation": "тридцать один"
+  },
+  {
+    "name_file": "0032.ogg",
+    "path": "ogg/SYSTEM/1/0032.ogg",
+    "origin_text": "thirty two",
+    "translation": "тридцать два"
+  },
+  {
+    "name_file": "0033.ogg",
+    "path": "ogg/SYSTEM/1/0033.ogg",
+    "origin_text": "thirty three",
+    "translation": "тридцать три"
+  },
+  {
+    "name_file": "0034.ogg",
+    "path": "ogg/SYSTEM/1/0034.ogg",
+    "origin_text": "thirty four",
+    "translation": "тридцать четыре"
+  },
+  {
+    "name_file": "0035.ogg",
+    "path": "ogg/SYSTEM/1/0035.ogg",
+    "origin_text": "thirty five",
+    "translation": "тридцать пять"
+  },
+  {
+    "name_file": "0036.ogg",
+    "path": "ogg/SYSTEM/1/0036.ogg",
+    "origin_text": "thirty six",
+    "translation": "тридцать шесть"
+  },
+  {
+    "name_file": "0037.ogg",
+    "path": "ogg/SYSTEM/1/0037.ogg",
+    "origin_text": "thirty seven",
+    "translation": "тридцать семь"
+  },
+  {
+    "name_file": "0038.ogg",
+    "path": "ogg/SYSTEM/1/0038.ogg",
+    "origin_text": "thirty eight",
+    "translation": "тридцать восемь"
+  },
+  {
+    "name_file": "0039.ogg",
+    "path": "ogg/SYSTEM/1/0039.ogg",
+    "origin_text": "thirty nine",
+    "translation": "тридцать девять"
+  },
+  {
+    "name_file": "0040.ogg",
+    "path": "ogg/SYSTEM/1/0040.ogg",
+    "origin_text": "forty",
+    "translation": "сорок"
+  },
+  {
+    "name_file": "0041.ogg",
+    "path": "ogg/SYSTEM/1/0041.ogg",
+    "origin_text": "forty one",
+    "translation": "сорок один"
+  },
+  {
+    "name_file": "0042.ogg",
+    "path": "ogg/SYSTEM/1/0042.ogg",
+    "origin_text": "forty two",
+    "translation": "сорок два"
+  },
+  {
+    "name_file": "0043.ogg",
+    "path": "ogg/SYSTEM/1/0043.ogg",
+    "origin_text": "forty three",
+    "translation": "сорок три"
+  },
+  {
+    "name_file": "0044.ogg",
+    "path": "ogg/SYSTEM/1/0044.ogg",
+    "origin_text": "forty four",
+    "translation": "сорок четыре"
+  },
+  {
+    "name_file": "0045.ogg",
+    "path": "ogg/SYSTEM/1/0045.ogg",
+    "origin_text": "forty five",
+    "translation": "сорок пять"
+  },
+  {
+    "name_file": "0046.ogg",
+    "path": "ogg/SYSTEM/1/0046.ogg",
+    "origin_text": "forty six",
+    "translation": "сорок шесть"
+  },
+  {
+    "name_file": "0047.ogg",
+    "path": "ogg/SYSTEM/1/0047.ogg",
+    "origin_text": "forty seven",
+    "translation": "сорок семь"
+  },
+  {
+    "name_file": "0048.ogg",
+    "path": "ogg/SYSTEM/1/0048.ogg",
+    "origin_text": "forty eight",
+    "translation": "сорок восемь"
+  },
+  {
+    "name_file": "0049.ogg",
+    "path": "ogg/SYSTEM/1/0049.ogg",
+    "origin_text": "forty nine",
+    "translation": "сорок девять"
+  },
+  {
+    "name_file": "0050.ogg",
+    "path": "ogg/SYSTEM/1/0050.ogg",
+    "origin_text": "fifty",
+    "translation": "пятьдесят"
+  }
+]

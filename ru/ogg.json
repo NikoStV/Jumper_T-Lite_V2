@@ -1,0 +1,758 @@
+[
+  {
+    "name_file": "3d-mod.ogg",
+    "path": "ogg/3d-mod.ogg",
+    "origin_text": "three d mode",
+    "translation": "режим три д"
+  },
+  {
+    "name_file": "on.ogg",
+    "path": "ogg/on.ogg",
+    "origin_text": "on",
+    "translation": "включить"
+  },
+  {
+    "name_file": "off.ogg",
+    "path": "ogg/off.ogg",
+    "origin_text": "off",
+    "translation": "выключить"
+  },
+  {
+    "name_file": "3d.ogg",
+    "path": "ogg/3d.ogg",
+    "origin_text": "three d",
+    "translation": "три д"
+  },
+  {
+    "name_file": "acrmod.ogg",
+    "path": "ogg/acrmod.ogg",
+    "origin_text": "acro mode",
+    "translation": "акро режим"
+  },
+  {
+    "name_file": "acro.ogg",
+    "path": "ogg/acro.ogg",
+    "origin_text": "acro mode on",
+    "translation": "акро режим включен"
+  },
+  {
+    "name_file": "airmod.ogg",
+    "path": "ogg/airmod.ogg",
+    "origin_text": "air mode",
+    "translation": "авиационный режим"
+  },
+  {
+    "name_file": "althld.ogg",
+    "path": "ogg/althld.ogg",
+    "origin_text": "altitude hold",
+    "translation": "удержание высоты"
+  },
+  {
+    "name_file": "angmod.ogg",
+    "path": "ogg/angmod.ogg",
+    "origin_text": "angle mode",
+    "translation": "угловой режим"
+  },
+  {
+    "name_file": "armed.ogg",
+    "path": "ogg/armed.ogg",
+    "origin_text": "armed",
+    "translation": "вооружен"
+  },
+  {
+    "name_file": "auto.ogg",
+    "path": "ogg/auto.ogg",
+    "origin_text": "auto",
+    "translation": "авто"
+  },
+  {
+    "name_file": "bank-0.ogg",
+    "path": "ogg/bank-0.ogg",
+    "origin_text": "bank zero",
+    "translation": "банк ноль"
+  },
+  {
+    "name_file": "bank-1.ogg",
+    "path": "ogg/bank-1.ogg",
+    "origin_text": "bank one",
+    "translation": "банк один"
+  },
+  {
+    "name_file": "bank-2.ogg",
+    "path": "ogg/bank-2.ogg",
+    "origin_text": "bank two",
+    "translation": "банк два"
+  },
+  {
+    "name_file": "bank-3.ogg",
+    "path": "ogg/bank-3.ogg",
+    "origin_text": "bank three",
+    "translation": "банк три"
+  },
+  {
+    "name_file": "blkact.ogg",
+    "path": "ogg/blkact.ogg",
+    "origin_text": "black box active",
+    "translation": "черный ящик активен"
+  },
+  {
+    "name_file": "brakof.ogg",
+    "path": "ogg/brakof.ogg",
+    "origin_text": "breaks off",
+    "translation": "отключается"
+  },
+  {
+    "name_file": "brakon.ogg",
+    "path": "ogg/brakon.ogg",
+    "origin_text": "breaks on",
+    "translation": "ломается"
+  },
+  {
+    "name_file": "btfoff.ogg",
+    "path": "ogg/btfoff.ogg",
+    "origin_text": "butterfly off",
+    "translation": "бабочка выключена"
+  },
+  {
+    "name_file": "btfon.ogg",
+    "path": "ogg/btfon.ogg",
+    "origin_text": "butterfly on",
+    "translation": "бабочка включена"
+  },
+  {
+    "name_file": "buzact.ogg",
+    "path": "ogg/buzact.ogg",
+    "origin_text": "buzzer active",
+    "translation": "звуковой сигнал активен"
+  },
+  {
+    "name_file": "crfact.ogg",
+    "path": "ogg/crfact.ogg",
+    "origin_text": "crush flip active",
+    "translation": "crush flip active"
+  },
+  {
+    "name_file": "crowof.ogg",
+    "path": "ogg/crowof.ogg",
+    "origin_text": "crow off",
+    "translation": "ворона выключена"
+  },
+  {
+    "name_file": "crowon.ogg",
+    "path": "ogg/crowon.ogg",
+    "origin_text": "crow on",
+    "translation": "ворона включена"
+  },
+  {
+    "name_file": "crshld.ogg",
+    "path": "ogg/crshld.ogg",
+    "origin_text": "course hold",
+    "translation": "удержание курса"
+  },
+  {
+    "name_file": "cruise.ogg",
+    "path": "ogg/cruise.ogg",
+    "origin_text": "cruise",
+    "translation": "круиз"
+  },
+  {
+    "name_file": "disarm.ogg",
+    "path": "ogg/disarm.ogg",
+    "origin_text": "disarmed",
+    "translation": "снят с охраны"
+  },
+  {
+    "name_file": "engoff.ogg",
+    "path": "ogg/engoff.ogg",
+    "origin_text": "engine off",
+    "translation": "двигатель выключен"
+  },
+  {
+    "name_file": "flapdn.ogg",
+    "path": "ogg/flapdn.ogg",
+    "origin_text": "flaps down",
+    "translation": "закрылки вниз"
+  },
+  {
+    "name_file": "flapup.ogg",
+    "path": "ogg/flapup.ogg",
+    "origin_text": "flaps up",
+    "translation": "закрылки вверх"
+  },
+  {
+    "name_file": "flip.ogg",
+    "path": "ogg/flip.ogg",
+    "origin_text": "flip",
+    "translation": "флип"
+  },
+  {
+    "name_file": "flp1.ogg",
+    "path": "ogg/flp1.ogg",
+    "origin_text": "flaps one",
+    "translation": "закрылки один"
+  },
+  {
+    "name_file": "flp2.ogg",
+    "path": "ogg/flp2.ogg",
+    "origin_text": "flaps two",
+    "translation": "закрылки два"
+  },
+  {
+    "name_file": "flp3.ogg",
+    "path": "ogg/flp3.ogg",
+    "origin_text": "flaps three",
+    "translation": "закрылки три"
+  },
+  {
+    "name_file": "flp4.ogg",
+    "path": "ogg/flp4.ogg",
+    "origin_text": "flaps four",
+    "translation": "закрылки четыре"
+  },
+  {
+    "name_file": "flp5.ogg",
+    "path": "ogg/flp5.ogg",
+    "origin_text": "flaps five",
+    "translation": "закрылки пять"
+  },
+  {
+    "name_file": "fm-1.ogg",
+    "path": "ogg/fm-1.ogg",
+    "origin_text": "flight mode one",
+    "translation": "режим полета один"
+  },
+  {
+    "name_file": "fm-2.ogg",
+    "path": "ogg/fm-2.ogg",
+    "origin_text": "flight mode two",
+    "translation": "режим полета два"
+  },
+  {
+    "name_file": "fm-3.ogg",
+    "path": "ogg/fm-3.ogg",
+    "origin_text": "flight mode three",
+    "translation": "режим полета три"
+  },
+  {
+    "name_file": "fm-4.ogg",
+    "path": "ogg/fm-4.ogg",
+    "origin_text": "flight mode four",
+    "translation": "режим полета четыре"
+  },
+  {
+    "name_file": "fm-5.ogg",
+    "path": "ogg/fm-5.ogg",
+    "origin_text": "flight mode five",
+    "translation": "режим полета пять"
+  },
+  {
+    "name_file": "fm-6.ogg",
+    "path": "ogg/fm-6.ogg",
+    "origin_text": "flight mode six",
+    "translation": "режим полета шесть"
+  },
+  {
+    "name_file": "fm-7.ogg",
+    "path": "ogg/fm-7.ogg",
+    "origin_text": "flight mode seven",
+    "translation": "режим полета семь"
+  },
+  {
+    "name_file": "fm-8.ogg",
+    "path": "ogg/fm-8.ogg",
+    "origin_text": "flight mode eight",
+    "translation": "режим полета восемь"
+  },
+  {
+    "name_file": "fm-acr.ogg",
+    "path": "ogg/fm-acr.ogg",
+    "origin_text": "flight mode acro",
+    "translation": "режим полета акро"
+  },
+  {
+    "name_file": "fm-ang.ogg",
+    "path": "ogg/fm-ang.ogg",
+    "origin_text": "flight mode angle",
+    "translation": "режим полета самовыравнивания"
+  },
+  {
+    "name_file": "fm-crs.ogg",
+    "path": "ogg/fm-crs.ogg",
+    "origin_text": "flight mode cruise",
+    "translation": "режим полета круиз"
+  },
+  {
+    "name_file": "fm-flt.ogg",
+    "path": "ogg/fm-flt.ogg",
+    "origin_text": "flight mode float",
+    "translation": "flight mode float"
+  },
+  {
+    "name_file": "fm-fst.ogg",
+    "path": "ogg/fm-fst.ogg",
+    "origin_text": "flight mode fast",
+    "translation": "режим полета быстрый"
+  },
+  {
+    "name_file": "fm-hor.ogg",
+    "path": "ogg/fm-hor.ogg",
+    "origin_text": "flight mode horizon",
+    "translation": "режим полета горизонт"
+  },
+  {
+    "name_file": "fm-id1.ogg",
+    "path": "ogg/fm-id1.ogg",
+    "origin_text": "flight mode idle up one",
+    "translation": "режим полета холостой ход один"
+  },
+  {
+    "name_file": "fm-id2.ogg",
+    "path": "ogg/fm-id2.ogg",
+    "origin_text": "flight mode idle up two",
+    "translation": "режим полета холостой ход два"
+  },
+  {
+    "name_file": "fm-lch.ogg",
+    "path": "ogg/fm-lch.ogg",
+    "origin_text": "flight mode launch",
+    "translation": "режим полета запуск"
+  },
+  {
+    "name_file": "fm-lnd.ogg",
+    "path": "ogg/fm-lnd.ogg",
+    "origin_text": "flight mode land",
+    "translation": "режим полета земля"
+  },
+  {
+    "name_file": "fm-nrm.ogg",
+    "path": "ogg/fm-nrm.ogg",
+    "origin_text": "flight mode normal",
+    "translation": "нормальный режим полета"
+  },
+  {
+    "name_file": "fm-png.ogg",
+    "path": "ogg/fm-png.ogg",
+    "origin_text": "flight mode ping",
+    "translation": "режим полета пинг"
+  },
+  {
+    "name_file": "fm-pwr.ogg",
+    "path": "ogg/fm-pwr.ogg",
+    "origin_text": "flight mode power",
+    "translation": "flight mode power"
+  },
+  {
+    "name_file": "fm-rce.ogg",
+    "path": "ogg/fm-rce.ogg",
+    "origin_text": "flight mode race",
+    "translation": "режим полета гонка"
+  },
+  {
+    "name_file": "fm-spd.ogg",
+    "path": "ogg/fm-spd.ogg",
+    "origin_text": "flight mode speed",
+    "translation": "режим полета скорость"
+  },
+  {
+    "name_file": "fm-stb.ogg",
+    "path": "ogg/fm-stb.ogg",
+    "origin_text": "flight mode stabilize",
+    "translation": "режима полета стабилизация"
+  },
+  {
+    "name_file": "fm-thl.ogg",
+    "path": "ogg/fm-thl.ogg",
+    "origin_text": "flight mode thermal left",
+    "translation": "режим полета тепловой левый"
+  },
+  {
+    "name_file": "fm-thm.ogg",
+    "path": "ogg/fm-thm.ogg",
+    "origin_text": "flight mode thermal",
+    "translation": "тепловой режим полета"
+  },
+  {
+    "name_file": "fm-thr.ogg",
+    "path": "ogg/fm-thr.ogg",
+    "origin_text": "flight mode thermal right",
+    "translation": "режим полета тепловой правый"
+  },
+  {
+    "name_file": "geardn.ogg",
+    "path": "ogg/geardn.ogg",
+    "origin_text": "gear down",
+    "translation": "передача вниз"
+  },
+  {
+    "name_file": "gearup.ogg",
+    "path": "ogg/gearup.ogg",
+    "origin_text": "gear up",
+    "translation": "передача вверх"
+  },
+  {
+    "name_file": "headlo.ogg",
+    "path": "ogg/headlo.ogg",
+    "origin_text": "heading lock",
+    "translation": "фиксация курса"
+  },
+  {
+    "name_file": "hznmod.ogg",
+    "path": "ogg/hznmod.ogg",
+    "origin_text": "horizon mode",
+    "translation": "режим горизонта"
+  },
+  {
+    "name_file": "idleu1.ogg",
+    "path": "ogg/idleu1.ogg",
+    "origin_text": "Idle up one",
+    "translation": "холостой ход 1"
+  },
+  {
+    "name_file": "idleu2.ogg",
+    "path": "ogg/idleu2.ogg",
+    "origin_text": "Idle up two",
+    "translation": "холостой ход 2"
+  },
+  {
+    "name_file": "landin.ogg",
+    "path": "ogg/landin.ogg",
+    "origin_text": "landing",
+    "translation": "посадка"
+  },
+  {
+    "name_file": "lncmod.ogg",
+    "path": "ogg/lncmod.ogg",
+    "origin_text": "launch mode",
+    "translation": "режим запуска"
+  },
+  {
+    "name_file": "lnding.ogg",
+    "path": "ogg/lnding.ogg",
+    "origin_text": "landing mode on",
+    "translation": "режим посадки включен"
+  },
+  {
+    "name_file": "lowbat.ogg",
+    "path": "ogg/lowbat.ogg",
+    "origin_text": "low battery",
+    "translation": "низкий заряд батареи"
+  },
+  {
+    "name_file": "lq.ogg",
+    "path": "ogg/lq.ogg",
+    "origin_text": "l q",
+    "translation": "l q"
+  },
+  {
+    "name_file": "manmod.ogg",
+    "path": "ogg/manmod.ogg",
+    "origin_text": "manual mode",
+    "translation": "ручной режим"
+  },
+  {
+    "name_file": "manual.ogg",
+    "path": "ogg/manual.ogg",
+    "origin_text": "manual",
+    "translation": "ручной"
+  },
+  {
+    "name_file": "navalh.ogg",
+    "path": "ogg/navalh.ogg",
+    "origin_text": "navigation altitude hold",
+    "translation": "навигационное удержание высоты"
+  },
+  {
+    "name_file": "navcrs.ogg",
+    "path": "ogg/navcrs.ogg",
+    "origin_text": "navigation crews",
+    "translation": "навигационные экипажи"
+  },
+  {
+    "name_file": "navcsh.ogg",
+    "path": "ogg/navcsh.ogg",
+    "origin_text": "navigation course hold",
+    "translation": "удержание навигационного курса"
+  },
+  {
+    "name_file": "navpos.ogg",
+    "path": "ogg/navpos.ogg",
+    "origin_text": "navigation position hold",
+    "translation": "удержание навигационной позиции"
+  },
+  {
+    "name_file": "navrth.ogg",
+    "path": "ogg/navrth.ogg",
+    "origin_text": "navigation returned to home",
+    "translation": "навигация вернулась в дом"
+  },
+  {
+    "name_file": "navwp.ogg",
+    "path": "ogg/navwp.ogg",
+    "origin_text": "navigation waypoint",
+    "translation": "навигационная путевая точка"
+  },
+  {
+    "name_file": "normod.ogg",
+    "path": "ogg/normod.ogg",
+    "origin_text": "normal mode",
+    "translation": "нормальный режим"
+  },
+  {
+    "name_file": "nrmmod.ogg",
+    "path": "ogg/nrmmod.ogg",
+    "origin_text": "normal mode on",
+    "translation": "нормальный режим включен"
+  },
+  {
+    "name_file": "osd.ogg",
+    "path": "ogg/osd.ogg",
+    "origin_text": "o s d",
+    "translation": "о с д"
+  },
+  {
+    "name_file": "osdprf.ogg",
+    "path": "ogg/osdprf.ogg",
+    "origin_text": "o s d profile",
+    "translation": "профиль о с д"
+  },
+  {
+    "name_file": "pattern.ogg",
+    "path": "ogg/pattern.ogg",
+    "origin_text": "pattern",
+    "translation": "шаблон"
+  },
+  {
+    "name_file": "pitmod.ogg",
+    "path": "ogg/pitmod.ogg",
+    "origin_text": "pick mode",
+    "translation": "режим выбора"
+  },
+  {
+    "name_file": "poshld.ogg",
+    "path": "ogg/poshld.ogg",
+    "origin_text": "position hold",
+    "translation": "удержание позиции"
+  },
+  {
+    "name_file": "preact.ogg",
+    "path": "ogg/preact.ogg",
+    "origin_text": "priam active",
+    "translation": "приам актив"
+  },
+  {
+    "name_file": "rathi.ogg",
+    "path": "ogg/rathi.ogg",
+    "origin_text": "hight rate",
+    "translation": "высокий темп"
+  },
+  {
+    "name_file": "ratlow.ogg",
+    "path": "ogg/ratlow.ogg",
+    "origin_text": "low rate",
+    "translation": "низкая скорость"
+  },
+  {
+    "name_file": "ratmed.ogg",
+    "path": "ogg/ratmed.ogg",
+    "origin_text": "medium rate",
+    "translation": "средняя скорость"
+  },
+  {
+    "name_file": "ratmod.ogg",
+    "path": "ogg/ratmod.ogg",
+    "origin_text": "rate mode",
+    "translation": "режим скорости"
+  },
+  {
+    "name_file": "rfmode.ogg",
+    "path": "ogg/rfmode.ogg",
+    "origin_text": "r f mode",
+    "translation": "режим р ф"
+  },
+  {
+    "name_file": "rth.ogg",
+    "path": "ogg/rth.ogg",
+    "origin_text": "return to home",
+    "translation": "возврат к дому"
+  },
+  {
+    "name_file": "sigcrt.ogg",
+    "path": "ogg/sigcrt.ogg",
+    "origin_text": "r f signal critical",
+    "translation": "сигнал р ф критический"
+  },
+  {
+    "name_file": "siglow.ogg",
+    "path": "ogg/siglow.ogg",
+    "origin_text": "r f signal low",
+    "translation": "сигнал r f низкий"
+  },
+  {
+    "name_file": "spdmod.ogg",
+    "path": "ogg/spdmod.ogg",
+    "origin_text": "high speed mode active",
+    "translation": "активен скоростной режим"
+  },
+  {
+    "name_file": "splrdn.ogg",
+    "path": "ogg/splrdn.ogg",
+    "origin_text": "spoiler down",
+    "translation": "спойлер опущен"
+  },
+  {
+    "name_file": "splrup.ogg",
+    "path": "ogg/splrup.ogg",
+    "origin_text": "spoiler up",
+    "translation": "спойлер поднят"
+  },
+  {
+    "name_file": "sport.ogg",
+    "path": "ogg/sport.ogg",
+    "origin_text": "sport",
+    "translation": "спорт"
+  },
+  {
+    "name_file": "stabmo.ogg",
+    "path": "ogg/stabmo.ogg",
+    "origin_text": "stabilize mode",
+    "translation": "режим стабилизации"
+  },
+  {
+    "name_file": "stbmod.ogg",
+    "path": "ogg/stbmod.ogg",
+    "origin_text": "stable mode",
+    "translation": "стабильный режим"
+  },
+  {
+    "name_file": "sxrahd.ogg",
+    "path": "ogg/sxrahd.ogg",
+    "origin_text": "attitude hold mode",
+    "translation": "режим удержания позиции"
+  },
+  {
+    "name_file": "sxrman.ogg",
+    "path": "ogg/sxrman.ogg",
+    "origin_text": "manual mode",
+    "translation": "ручной режим"
+  },
+  {
+    "name_file": "sxrsmd.ogg",
+    "path": "ogg/sxrsmd.ogg",
+    "origin_text": "stabilizer mode",
+    "translation": "режим стабилизации"
+  },
+  {
+    "name_file": "sxrsof.ogg",
+    "path": "ogg/sxrsof.ogg",
+    "origin_text": "stabilizer off",
+    "translation": "стабилизатор выключен"
+  },
+  {
+    "name_file": "sxrstb.ogg",
+    "path": "ogg/sxrstb.ogg",
+    "origin_text": "stabilizer on",
+    "translation": "стабилизатор включен"
+  },
+  {
+    "name_file": "sxrwr.ogg",
+    "path": "ogg/sxrwr.ogg",
+    "origin_text": "wind rejection mode",
+    "translation": "режим отклонения ветра"
+  },
+  {
+    "name_file": "takeoff.ogg",
+    "path": "ogg/takeoff.ogg",
+    "origin_text": "take off",
+    "translation": "взлет"
+  },
+  {
+    "name_file": "thmmod.ogg",
+    "path": "ogg/thmmod.ogg",
+    "origin_text": "thermal mode on",
+    "translation": "тепловой режим включен"
+  },
+  {
+    "name_file": "thract.ogg",
+    "path": "ogg/thract.ogg",
+    "origin_text": "throttle active",
+    "translation": "дроссель активен"
+  },
+  {
+    "name_file": "thrcut.ogg",
+    "path": "ogg/thrcut.ogg",
+    "origin_text": "throttle thrcut",
+    "translation": "дроссельная заслонка"
+  },
+  {
+    "name_file": "tohigh.ogg",
+    "path": "ogg/tohigh.ogg",
+    "origin_text": "too high",
+    "translation": "слишком высоко"
+  },
+  {
+    "name_file": "tolow.ogg",
+    "path": "ogg/tolow.ogg",
+    "origin_text": "too low",
+    "translation": "слишком низко"
+  },
+  {
+    "name_file": "trnoff.ogg",
+    "path": "ogg/trnoff.ogg",
+    "origin_text": "trainer off",
+    "translation": "тренер выключен"
+  },
+  {
+    "name_file": "trnon.ogg",
+    "path": "ogg/trnon.ogg",
+    "origin_text": "trainer on",
+    "translation": "тренер включен"
+  },
+  {
+    "name_file": "turtof.ogg",
+    "path": "ogg/turtof.ogg",
+    "origin_text": "turtle mowed off",
+    "translation": "черепаха скошена"
+  },
+  {
+    "name_file": "turton.ogg",
+    "path": "ogg/turton.ogg",
+    "origin_text": "turtle mowed on",
+    "translation": "черепаха скошена"
+  },
+  {
+    "name_file": "vrioff.ogg",
+    "path": "ogg/vrioff.ogg",
+    "origin_text": "verio off",
+    "translation": "верио выключен"
+  },
+  {
+    "name_file": "vrion.ogg",
+    "path": "ogg/vrion.ogg",
+    "origin_text": "verio on",
+    "translation": "верио включен"
+  },
+  {
+    "name_file": "waypnt.ogg",
+    "path": "ogg/waypnt.ogg",
+    "origin_text": "waypoint",
+    "translation": "путевая точка"
+  },
+  {
+    "name_file": "whlbrf.ogg",
+    "path": "ogg/whlbrf.ogg",
+    "origin_text": "wheel breaks off",
+    "translation": "колёсные тормоза выключены"
+  },
+  {
+    "name_file": "whlbro.ogg",
+    "path": "ogg/whlbro.ogg",
+    "origin_text": "wheel brakes on",
+    "translation": "колёсные тормоза включены"
+  },
+  {
+    "name_file": "wngswp.ogg",
+    "path": "ogg/wngswp.ogg",
+    "origin_text": "wing sweep",
+    "translation": "взмах крыла"
+  }
+]

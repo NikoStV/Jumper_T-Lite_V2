@@ -1,0 +1,320 @@
+[
+  {
+    "name_file": "mamph0.ogg",
+    "path": "ogg/SYSTEM/4/mamph0.ogg",
+    "origin_text": "milliampire",
+    "translation": "миллиампер"
+  },
+  {
+    "name_file": "mamph1.ogg",
+    "path": "ogg/SYSTEM/4/mamph1.ogg",
+    "origin_text": "milliam powers",
+    "translation": "миллиамперы"
+  },
+  {
+    "name_file": "maxtrim.ogg",
+    "path": "ogg/SYSTEM/4/maxtrim.ogg",
+    "origin_text": "maximum trim reached",
+    "translation": "достигнут максимальный уровень трима"
+  },
+  {
+    "name_file": "meter0.ogg",
+    "path": "ogg/SYSTEM/4/meter0.ogg",
+    "origin_text": "meter",
+    "translation": "метр"
+  },
+  {
+    "name_file": "meter1.ogg",
+    "path": "ogg/SYSTEM/4/meter1.ogg",
+    "origin_text": "meters",
+    "translation": "метры"
+  },
+  {
+    "name_file": "midtrim.ogg",
+    "path": "ogg/SYSTEM/4/midtrim.ogg",
+    "origin_text": "trim center",
+    "translation": "трим центр"
+  },
+  {
+    "name_file": "mintrim.ogg",
+    "path": "ogg/SYSTEM/4/mintrim.ogg",
+    "origin_text": "minimum trim reached",
+    "translation": "достигнут минимальный уровень трима"
+  },
+  {
+    "name_file": "minute0.ogg",
+    "path": "ogg/SYSTEM/4/minute0.ogg",
+    "origin_text": "minute",
+    "translation": "минута"
+  },
+  {
+    "name_file": "minute1.ogg",
+    "path": "ogg/SYSTEM/4/minute1.ogg",
+    "origin_text": "minutes",
+    "translation": "минуты"
+  },
+  {
+    "name_file": "ml0.ogg",
+    "path": "ogg/SYSTEM/4/ml0.ogg",
+    "origin_text": "middle leisure",
+    "translation": "средний досуг"
+  },
+  {
+    "name_file": "ml1.ogg",
+    "path": "ogg/SYSTEM/4/ml1.ogg",
+    "origin_text": "milliliters",
+    "translation": "миллилитры"
+  },
+  {
+    "name_file": "mlpm0.ogg",
+    "path": "ogg/SYSTEM/4/mlpm0.ogg",
+    "origin_text": "milliliter per minute",
+    "translation": "миллилитр в минуту"
+  },
+  {
+    "name_file": "mlpm1.ogg",
+    "path": "ogg/SYSTEM/4/mlpm1.ogg",
+    "origin_text": "milliliters per minute",
+    "translation": "миллилитров в минуту"
+  },
+  {
+    "name_file": "modelpwr.ogg",
+    "path": "ogg/SYSTEM/4/modelpwr.ogg",
+    "origin_text": "receivers still connected",
+    "translation": "приемники еще подключены"
+  },
+  {
+    "name_file": "mph0.ogg",
+    "path": "ogg/SYSTEM/4/mph0.ogg",
+    "origin_text": "mile per hour",
+    "translation": "миль в час"
+  },
+  {
+    "name_file": "mph1.ogg",
+    "path": "ogg/SYSTEM/4/mph1.ogg",
+    "origin_text": "miles per hour",
+    "translation": "мили в час"
+  },
+  {
+    "name_file": "mps0.ogg",
+    "path": "ogg/SYSTEM/4/mps0.ogg",
+    "origin_text": "measure per second",
+    "translation": "мера в секунду"
+  },
+  {
+    "name_file": "mps1.ogg",
+    "path": "ogg/SYSTEM/4/mps1.ogg",
+    "origin_text": "measures per second",
+    "translation": "мер в секунду"
+  },
+  {
+    "name_file": "ms0.ogg",
+    "path": "ogg/SYSTEM/4/ms0.ogg",
+    "origin_text": "millisecond",
+    "translation": "миллисекунда"
+  },
+  {
+    "name_file": "ms1.ogg",
+    "path": "ogg/SYSTEM/4/ms1.ogg",
+    "origin_text": "milliseconds",
+    "translation": "миллисекунды"
+  },
+  {
+    "name_file": "g0.ogg",
+    "path": "ogg/SYSTEM/g0.ogg",
+    "origin_text": "g",
+    "translation": "джи"
+  },
+  {
+    "name_file": "mwatt0.ogg",
+    "path": "ogg/SYSTEM/4/mwatt0.ogg",
+    "origin_text": "milliwatt",
+    "translation": "милливатт"
+  },
+  {
+    "name_file": "mwatt1.ogg",
+    "path": "ogg/SYSTEM/4/mwatt1.ogg",
+    "origin_text": "milliwatts",
+    "translation": "милливатт"
+  },
+  {
+    "name_file": "percent0.ogg",
+    "path": "ogg/SYSTEM/4/percent0.ogg",
+    "origin_text": "percent",
+    "translation": "процент"
+  },
+  {
+    "name_file": "percent1.ogg",
+    "path": "ogg/SYSTEM/4/percent1.ogg",
+    "origin_text": "percent",
+    "translation": "процент"
+  },
+  {
+    "name_file": "rad0.ogg",
+    "path": "ogg/SYSTEM/4/rad0.ogg",
+    "origin_text": "radian",
+    "translation": "радиан"
+  },
+  {
+    "name_file": "rad1.ogg",
+    "path": "ogg/SYSTEM/4/rad1.ogg",
+    "origin_text": "radians",
+    "translation": "радианы"
+  },
+  {
+    "name_file": "rpm0.ogg",
+    "path": "ogg/SYSTEM/4/rpm0.ogg",
+    "origin_text": "rpm",
+    "translation": "оборотов в минуту"
+  },
+  {
+    "name_file": "rpm1.ogg",
+    "path": "ogg/SYSTEM/4/rpm1.ogg",
+    "origin_text": "rpm",
+    "translation": "оборотов в минуту"
+  },
+  {
+    "name_file": "rssi_org.ogg",
+    "path": "ogg/SYSTEM/4/rssi_org.ogg",
+    "origin_text": "r f signal low",
+    "translation": "r f сигнал низкий"
+  },
+  {
+    "name_file": "rssi_red.ogg",
+    "path": "ogg/SYSTEM/4/rssi_red.ogg",
+    "origin_text": "r f signal critical",
+    "translation": "r f сигнал критический"
+  },
+  {
+    "name_file": "rxko.ogg",
+    "path": "ogg/SYSTEM/4/rxko.ogg",
+    "origin_text": "power overload",
+    "translation": "перегрузка питания"
+  },
+  {
+    "name_file": "second0.ogg",
+    "path": "ogg/SYSTEM/4/second0.ogg",
+    "origin_text": "second",
+    "translation": "секунда"
+  },
+  {
+    "name_file": "second1.ogg",
+    "path": "ogg/SYSTEM/4/second1.ogg",
+    "origin_text": "seconds",
+    "translation": "секунды"
+  },
+  {
+    "name_file": "sensorko.ogg",
+    "path": "ogg/SYSTEM/4/sensorko.ogg",
+    "origin_text": "censor last",
+    "translation": "цензор последний"
+  },
+  {
+    "name_file": "servoko.ogg",
+    "path": "ogg/SYSTEM/4/servoko.ogg",
+    "origin_text": "several overload",
+    "translation": "несколько перегрузок"
+  },
+  {
+    "name_file": "swalert.ogg",
+    "path": "ogg/SYSTEM/4/swalert.ogg",
+    "origin_text": "switch warning",
+    "translation": "свитчи внимание"
+  },
+  {
+    "name_file": "swr_red.ogg",
+    "path": "ogg/SYSTEM/4/swr_red.ogg",
+    "origin_text": "radio antenna defective",
+    "translation": "неисправна радиоантенна"
+  },
+  {
+    "name_file": "telemko.ogg",
+    "path": "ogg/SYSTEM/4/telemko.ogg",
+    "origin_text": "telemetry lost",
+    "translation": "связь с приемником потеряна"
+  },
+  {
+    "name_file": "foot0.ogg",
+    "path": "ogg/SYSTEM/foot0.ogg",
+    "origin_text": "first",
+    "translation": "первый"
+  },
+  {
+    "name_file": "telemok.ogg",
+    "path": "ogg/SYSTEM/4/telemok.ogg",
+    "origin_text": "telemetry recovered",
+    "translation": "связь с приемником восстановлена"
+  },
+  {
+    "name_file": "thralert.ogg",
+    "path": "ogg/SYSTEM/4/thralert.ogg",
+    "origin_text": "throttle warning",
+    "translation": "предупреждение дросселя"
+  },
+  {
+    "name_file": "timovr1.ogg",
+    "path": "ogg/SYSTEM/4/timovr1.ogg",
+    "origin_text": "timer one elapsed",
+    "translation": "таймер один истек"
+  },
+  {
+    "name_file": "timovr2.ogg",
+    "path": "ogg/SYSTEM/4/timovr2.ogg",
+    "origin_text": "timer two elapsed",
+    "translation": "таймер два истек"
+  },
+  {
+    "name_file": "timovr3.ogg",
+    "path": "ogg/SYSTEM/4/timovr3.ogg",
+    "origin_text": "timer three elapsed",
+    "translation": "таймер три истек"
+  },
+  {
+    "name_file": "trainko.ogg",
+    "path": "ogg/SYSTEM/4/trainko.ogg",
+    "origin_text": "trainer signal last",
+    "translation": "сигнал тренера последний"
+  },
+  {
+    "name_file": "trainok.ogg",
+    "path": "ogg/SYSTEM/4/trainok.ogg",
+    "origin_text": "trainer signal recovered",
+    "translation": "сигнал тренера восстановлен"
+  },
+  {
+    "name_file": "us0.ogg",
+    "path": "ogg/SYSTEM/4/us0.ogg",
+    "origin_text": "microsecond",
+    "translation": "микросекунда"
+  },
+  {
+    "name_file": "us1.ogg",
+    "path": "ogg/SYSTEM/4/us1.ogg",
+    "origin_text": "microseconds",
+    "translation": "микросекунды"
+  },
+  {
+    "name_file": "volt0.ogg",
+    "path": "ogg/SYSTEM/4/volt0.ogg",
+    "origin_text": "volt",
+    "translation": "вольт"
+  },
+  {
+    "name_file": "volt1.ogg",
+    "path": "ogg/SYSTEM/4/volt1.ogg",
+    "origin_text": "volts",
+    "translation": "вольт"
+  },
+  {
+    "name_file": "watt0.ogg",
+    "path": "ogg/SYSTEM/watt0.ogg",
+    "origin_text": "watt",
+    "translation": "ватт"
+  },
+  {
+    "name_file": "watt1.ogg",
+    "path": "ogg/SYSTEM/4/watt1.ogg",
+    "origin_text": "whats",
+    "translation": "ватты"
+  }
+]

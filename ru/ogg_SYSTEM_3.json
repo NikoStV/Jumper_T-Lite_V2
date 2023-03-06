@@ -1,0 +1,296 @@
+[
+  {
+    "name_file": "0103.ogg",
+    "path": "ogg/SYSTEM/3/0103.ogg",
+    "origin_text": "four hundred",
+    "translation": "четыреста"
+  },
+  {
+    "name_file": "0104.ogg",
+    "path": "ogg/SYSTEM/3/0104.ogg",
+    "origin_text": "five hundred",
+    "translation": "пятьсот"
+  },
+  {
+    "name_file": "0105.ogg",
+    "path": "ogg/SYSTEM/3/0105.ogg",
+    "origin_text": "six hundred",
+    "translation": "шестьсот"
+  },
+  {
+    "name_file": "0106.ogg",
+    "path": "ogg/SYSTEM/3/0106.ogg",
+    "origin_text": "seven hundred",
+    "translation": "семьсот"
+  },
+  {
+    "name_file": "0107.ogg",
+    "path": "ogg/SYSTEM/3/0107.ogg",
+    "origin_text": "eight hundred",
+    "translation": "восемьсот"
+  },
+  {
+    "name_file": "0108.ogg",
+    "path": "ogg/SYSTEM/3/0108.ogg",
+    "origin_text": "nine hundred",
+    "translation": "девятьсот"
+  },
+  {
+    "name_file": "0109.ogg",
+    "path": "ogg/SYSTEM/3/0109.ogg",
+    "origin_text": "peasant",
+    "translation": "крестьянин"
+  },
+  {
+    "name_file": "0110.ogg",
+    "path": "ogg/SYSTEM/0080.ogg",
+    "origin_text": "eighty",
+    "translation": "восемьдесят"
+  },
+  {
+    "name_file": "0111.ogg",
+    "path": "ogg/SYSTEM/3/0111.ogg",
+    "origin_text": "minus",
+    "translation": "минус"
+  },
+  {
+    "name_file": "0112.ogg",
+    "path": "ogg/SYSTEM/3/0112.ogg",
+    "origin_text": "point",
+    "translation": "точка"
+  },
+  {
+    "name_file": "0167.ogg",
+    "path": "ogg/SYSTEM/3/0167.ogg",
+    "origin_text": "point zero",
+    "translation": "точка ноль"
+  },
+  {
+    "name_file": "0168.ogg",
+    "path": "ogg/SYSTEM/3/0168.ogg",
+    "origin_text": "point one",
+    "translation": "точка один"
+  },
+  {
+    "name_file": "0169.ogg",
+    "path": "ogg/SYSTEM/3/0169.ogg",
+    "origin_text": "point two",
+    "translation": "точка два"
+  },
+  {
+    "name_file": "0170.ogg",
+    "path": "ogg/SYSTEM/3/0170.ogg",
+    "origin_text": "point three",
+    "translation": "точка три"
+  },
+  {
+    "name_file": "0171.ogg",
+    "path": "ogg/SYSTEM/3/0171.ogg",
+    "origin_text": "point four",
+    "translation": "точка четыре"
+  },
+  {
+    "name_file": "0172.ogg",
+    "path": "ogg/SYSTEM/3/0172.ogg",
+    "origin_text": "point five",
+    "translation": "точка пять"
+  },
+  {
+    "name_file": "0173.ogg",
+    "path": "ogg/SYSTEM/3/0173.ogg",
+    "origin_text": "point six",
+    "translation": "пункт шесть"
+  },
+  {
+    "name_file": "0174.ogg",
+    "path": "ogg/SYSTEM/3/0174.ogg",
+    "origin_text": "point seven",
+    "translation": "пункт семь"
+  },
+  {
+    "name_file": "0175.ogg",
+    "path": "ogg/SYSTEM/3/0175.ogg",
+    "origin_text": "point eight",
+    "translation": "точка восемь"
+  },
+  {
+    "name_file": "0176.ogg",
+    "path": "ogg/SYSTEM/3/0176.ogg",
+    "origin_text": "point nine",
+    "translation": "точка девять"
+  },
+  {
+    "name_file": "amp0.ogg",
+    "path": "ogg/SYSTEM/amp0.ogg",
+    "origin_text": "amp",
+    "translation": "амп"
+  },
+  {
+    "name_file": "amp1.ogg",
+    "path": "ogg/SYSTEM/3/amp1.ogg",
+    "origin_text": "Amps",
+    "translation": "амперы"
+  },
+  {
+    "name_file": "celsius0.ogg",
+    "path": "ogg/SYSTEM/3/celsius0.ogg",
+    "origin_text": "degree celsius",
+    "translation": "градус Цельсия"
+  },
+  {
+    "name_file": "celsius1.ogg",
+    "path": "ogg/SYSTEM/3/celsius1.ogg",
+    "origin_text": "degrees celsius",
+    "translation": "градусы Цельсия"
+  },
+  {
+    "name_file": "db0.ogg",
+    "path": "ogg/SYSTEM/3/db0.ogg",
+    "origin_text": "DB",
+    "translation": "Д Б"
+  },
+  {
+    "name_file": "db1.ogg",
+    "path": "ogg/SYSTEM/3/db1.ogg",
+    "origin_text": "DB",
+    "translation": "Д Б"
+  },
+  {
+    "name_file": "degree0.ogg",
+    "path": "ogg/SYSTEM/3/degree0.ogg",
+    "origin_text": "degree",
+    "translation": "градус"
+  },
+  {
+    "name_file": "degree1.ogg",
+    "path": "ogg/SYSTEM/3/degree1.ogg",
+    "origin_text": "degrees",
+    "translation": "градусы"
+  },
+  {
+    "name_file": "eebad.ogg",
+    "path": "ogg/SYSTEM/3/eebad.ogg",
+    "origin_text": "by the prom",
+    "translation": "на выпускном"
+  },
+  {
+    "name_file": "fahr0.ogg",
+    "path": "ogg/SYSTEM/3/fahr0.ogg",
+    "origin_text": "degree fahrenheit",
+    "translation": "градус по фаренгейту"
+  },
+  {
+    "name_file": "fahr1.ogg",
+    "path": "ogg/SYSTEM/3/fahr1.ogg",
+    "origin_text": "degrees fahrenheit",
+    "translation": "градусы по Фаренгейту"
+  },
+  {
+    "name_file": "foot1.ogg",
+    "path": "ogg/SYSTEM/3/foot1.ogg",
+    "origin_text": "feet",
+    "translation": "футы"
+  },
+  {
+    "name_file": "founce0.ogg",
+    "path": "ogg/SYSTEM/3/founce0.ogg",
+    "origin_text": "fluid ounce",
+    "translation": "жидкая унция"
+  },
+  {
+    "name_file": "founce1.ogg",
+    "path": "ogg/SYSTEM/3/founce1.ogg",
+    "origin_text": "fluid ounces",
+    "translation": "жидкие унции"
+  },
+  {
+    "name_file": "fps0.ogg",
+    "path": "ogg/SYSTEM/3/fps0.ogg",
+    "origin_text": "foot per second",
+    "translation": "фут в секунду"
+  },
+  {
+    "name_file": "fps1.ogg",
+    "path": "ogg/SYSTEM/3/fps1.ogg",
+    "origin_text": "feet per second",
+    "translation": "футов в секунду"
+  },
+  {
+    "name_file": "hello.ogg",
+    "path": "ogg/SYSTEM/3/hello.ogg",
+    "origin_text": "welcome to edge TX",
+    "translation": "добро пожаловать Николай"
+  },
+  {
+    "name_file": "hertz0.ogg",
+    "path": "ogg/SYSTEM/3/hertz0.ogg",
+    "origin_text": "hearts",
+    "translation": "сердца"
+  },
+  {
+    "name_file": "hertz1.ogg",
+    "path": "ogg/SYSTEM/3/hertz1.ogg",
+    "origin_text": "hearts",
+    "translation": "сердца"
+  },
+  {
+    "name_file": "hour0.ogg",
+    "path": "ogg/SYSTEM/hour0.ogg",
+    "origin_text": "hour",
+    "translation": "час"
+  },
+  {
+    "name_file": "hour1.ogg",
+    "path": "ogg/SYSTEM/3/hour1.ogg",
+    "origin_text": "hours",
+    "translation": "часы"
+  },
+  {
+    "name_file": "inactiv.ogg",
+    "path": "ogg/SYSTEM/3/inactiv.ogg",
+    "origin_text": "inactivity alarm",
+    "translation": "сигнализация бездействия"
+  },
+  {
+    "name_file": "knot0.ogg",
+    "path": "ogg/SYSTEM/3/knot0.ogg",
+    "origin_text": "not",
+    "translation": "нет"
+  },
+  {
+    "name_file": "knot1.ogg",
+    "path": "ogg/SYSTEM/3/knot1.ogg",
+    "origin_text": "knots",
+    "translation": "узлы"
+  },
+  {
+    "name_file": "kph0.ogg",
+    "path": "ogg/SYSTEM/3/kph0.ogg",
+    "origin_text": "kilometer per hour",
+    "translation": "километр в час"
+  },
+  {
+    "name_file": "kph1.ogg",
+    "path": "ogg/SYSTEM/3/kph1.ogg",
+    "origin_text": "kilometers per hour",
+    "translation": "километры в час"
+  },
+  {
+    "name_file": "lowbatt.ogg",
+    "path": "ogg/SYSTEM/3/lowbatt.ogg",
+    "origin_text": "transmitter battery low",
+    "translation": "разряд батареи передатчика"
+  },
+  {
+    "name_file": "mamp0.ogg",
+    "path": "ogg/SYSTEM/3/mamp0.ogg",
+    "origin_text": "milliamp",
+    "translation": "миллиампер"
+  },
+  {
+    "name_file": "mamp1.ogg",
+    "path": "ogg/SYSTEM/3/mamp1.ogg",
+    "origin_text": "milliamps",
+    "translation": "миллиамперы"
+  }
+]
